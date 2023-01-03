@@ -13,19 +13,19 @@ Unfortunately I can not measure the electricity used by the heatpump directely, 
 I am interested if I can predict the electricity demand of the heatpump with the help of this data. For example, I suspect that the amount of elecricity the heatpump requires it is at least dependend to the outside air temperature and the inside temperature.
 
 To build a model that can predict our elecricity demand, I obtained data from:
-* A weather station operated by the government 
-* Thermometers placed inside and outside the house
-* Solar panels placed on the roof
-* A "smart meter" that is connected to the main elecricity lines
-* Data from the elecricity provider
-* Data recorded about the manual changes I conducted on the settings of the heatpump
+| * A weather station operated by the government 
+| * Thermometers placed inside and outside the house
+| * Solar panels placed on the roof
+| * A "smart meter" that is connected to the main elecricity lines
+| * Data from the elecricity provider
+| * Data recorded about the manual changes I conducted on the settings of the heatpump
 
 The following will run you through a full workflow of a data analysis:
-1. Obtain, import and clean the data required from various sources
-2. Explore some of the data
-3. Make certain assumptions about the data
-4. Combine and analyse the data
-5. Choose suitable predictor variables
-6. Build a model to make predictions
-7. Evaluate the model
-8. Interpret the model
+| 1. Obtain, import and clean the data required from various sources
+| 2. Explore some of the data
+| 3. Make certain assumptions about the data
+| 4. Combine and analyse the data
+| 5. Choose suitable predictor variables
+| 6. Build a model to make predictions
+| 7. Evaluate the model
+| 8. Interpret the model
