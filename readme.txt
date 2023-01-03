@@ -29,5 +29,6 @@ The following will run you through a full workflow of a data analysis:
 6. Build a model to make predictions
 7. Evaluate the model
 8. Interpret the model
+9. Make an 8-day forecast
 
 The analysis is carried out in the jupyter notebook called "analysis_heatpump_elecricity_demand.ipynb" in this directory.
